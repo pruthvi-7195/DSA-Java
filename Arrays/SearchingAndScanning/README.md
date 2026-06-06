@@ -9,6 +9,8 @@ This folder contains problems that involve scanning arrays, searching for elemen
 | 1 | Count Occurrences of a Number | Easy |
 | 2 | Check for Duplicates | Easy |
 | 3 | First Repeating Element | Easy |
+| 4 | Union of Two Arrays |
+| 5 | Merge Two Sorted Arrays |
 
 ## Concepts Covered
 
@@ -16,7 +18,10 @@ This folder contains problems that involve scanning arrays, searching for elemen
 - Frequency Counting
 - HashSet
 - HashMap
+- Union of Sets
+- Two Pointer Technique
 - Array Traversal
+
 - Duplicate Detection
 
 ## Learning Outcomes
@@ -36,3 +41,5 @@ After completing these problems, I learned:
 | Count Occurrences | O(n) |
 | Check Duplicates | O(n) |
 | First Repeating Element | O(n) |
+| Union of Two Arrays | O(n + m) |
+| Merge Two Sorted Arrays | O(n + m) |
