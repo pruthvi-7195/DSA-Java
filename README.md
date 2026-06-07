@@ -17,7 +17,7 @@ My Data Structures and Algorithms journey using Java.
 
 | Topic | Count |
 |---------|---------|
-| Arrays | 11|
+| Arrays | 14|
 | Strings | 0 |
 | Binary Search| 0 |
 | Maths for DSA | 0 |
@@ -26,4 +26,4 @@ My Data Structures and Algorithms journey using Java.
 | Bit Manipulation| 0 |
 | Linked List| 0 |
 
-Total Problems Solved: 11
+Total Problems Solved: 14
