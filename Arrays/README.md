@@ -26,8 +26,8 @@ Problems involving finding elements and traversing arrays efficiently.
 - Union of Two Arrays
 - Merge Two Sorted Arrays 
 
-### 3. Swap ,Reverse & Rearrange
-- Swap Two Elements
+### 3. Swap and Rearrange
+- Missing number from 1 to N
 - Left Rotate by One
 - Left Rotate by K
 - Segregate even and odd
