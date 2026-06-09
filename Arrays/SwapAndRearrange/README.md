@@ -36,3 +36,5 @@ This folder contains problems involving element rearrangement, array rotations, 
 | Missing Number from 1 to N | O(n) |
 | Left Rotate by One | O(n) |
 | Left Rotate by K | O(n) |
+| Segregate Even and Odd | O(n) |
+| Segregate Positive and Negative | O(n) |
