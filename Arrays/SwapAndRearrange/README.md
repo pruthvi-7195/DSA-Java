@@ -9,6 +9,8 @@ This folder contains problems involving element rearrangement, array rotations, 
 | 1 | Missing Number from 1 to N |
 | 2 | Left Rotate Array by One Position |
 | 3 | Left Rotate Array by K Positions |
+| 4 | Segregate Even and Odd Numbers |
+| 5 | Segregate Positive and Negative Numbers |
 
 ## Concepts Covered
 
@@ -17,6 +19,8 @@ This folder contains problems involving element rearrangement, array rotations, 
 - Mathematical Formula Approach
 - Reversal Algorithm
 - Modulo Operations
+- Two Pointer Technique
+- Partitioning Arrays
 
 ## Learning Outcomes
 
