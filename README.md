@@ -20,10 +20,10 @@ My Data Structures and Algorithms journey using Java.
 | Arrays | 16|
 | Strings | 0 |
 | Binary Search| 0 |
-| Maths for DSA | 0 |
+| Maths for DSA | 3 |
 | Patterns | 0 |
 | Two Pointers | 0 |
 | Bit Manipulation| 0 |
 | Linked List| 0 |
 
-Total Problems Solved: 16
+Total Problems Solved: 19
