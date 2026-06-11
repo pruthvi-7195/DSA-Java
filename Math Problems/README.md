@@ -37,6 +37,9 @@ After completing these problems, I learned:
 | Armstrong Number | O(d) |
 | Prime Number Check | O(√n) |
 | Sieve of Eratosthenes | O(n log log n) |
+ |Sum of N Natural Numbers |
+ | Factorial Using Recursion |
+ | Fibonacci Using Recursion |
 
 ## Applications
 
