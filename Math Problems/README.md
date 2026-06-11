@@ -10,6 +10,9 @@ This folder contains basic mathematical and number theory problems frequently as
 | 1 | Armstrong Number |
 | 2 | Prime Number Check |
 | 3 | Prime Numbers from 1 to N (Sieve of Eratosthenes) |
+| 4 | Sum of N Natural Numbers |
+| 5 | Factorial Using Recursion |
+| 6 | Fibonacci Using Recursion |
 
 ## Concepts Covered
 
