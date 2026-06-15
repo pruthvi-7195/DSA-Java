@@ -7,6 +7,7 @@ My Data Structures and Algorithms journey using Java.
 - Arrays(Basic)
 - Binary Search
 - Bit Manipulation
+- Hashing
 - Math Problems 
 - Pattern Printing
 - Strings 
@@ -22,8 +23,9 @@ My Data Structures and Algorithms journey using Java.
 | Binary Search| 0 |
 | Maths for DSA | 6 |
 | Patterns | 0 |
+| Hashing | 3 |
 | Two Pointers | 0 |
 | Bit Manipulation| 0 |
 | Linked List| 0 |
 
-Total Problems Solved: 22
+Total Problems Solved: 25
