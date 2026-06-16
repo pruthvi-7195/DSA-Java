@@ -23,9 +23,9 @@ My Data Structures and Algorithms journey using Java.
 | Binary Search| 0 |
 | Maths for DSA | 6 |
 | Patterns | 0 |
-| Hashing | 3 |
+| Hashing | 6 |
 | Two Pointers | 0 |
 | Bit Manipulation| 0 |
 | Linked List| 0 |
 
-Total Problems Solved: 25
+Total Problems Solved: 28
