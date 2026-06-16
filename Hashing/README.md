@@ -11,6 +11,17 @@ Problems:
 - Count Frequency of Each Element
 - Element with Maximum Frequency
 
+### 2. Set and Distinct Problems
+
+Problems:
+- Contains Duplicate
+- Intersection of Two Arrays
+- Longest Consecutive Sequence
+- Distinct Elements
+- Fast Lookup
+- Consecutive Sequence Detection
+
+
 ## Concepts Learned
 
 - HashMap
@@ -24,5 +35,7 @@ Problems:
 | Section | Problems Solved |
 |----------|----------|
 | Frequency and Counting | 3 |
+| Set and Distinct Problems | 3 |
+
 
 Total Hashing Problems: 3
