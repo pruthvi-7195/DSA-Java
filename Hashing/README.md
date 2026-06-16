@@ -38,4 +38,4 @@ Problems:
 | Set and Distinct Problems | 3 |
 
 
-Total Hashing Problems: 3
+Total Hashing Problems: 6
